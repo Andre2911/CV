@@ -1,0 +1,4 @@
+" DECLARAR VARIABLE CON DOS DECIMALES
+DATA numero TYPE i DECIMALS 2.
+
+" definir la variable my_dob que se basa en el campo DOB de la tabla zemployees
